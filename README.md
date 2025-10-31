@@ -1,7 +1,7 @@
 # ANNA-LIVIA-QNLP
 > riverrun, past Bobcat’s parsing, down to qubit again.
 
-**One-sentence**: A small, inspectable demo that maps *Finnegans Wake* sentences to **DisCoCat** string diagrams with **lambeq**, compiles them to parameterised (simulated) circuits, and trains simple classifiers/probes—so we can talk concretely about what “quantum NLP” looks like on literary text before anyone oversells it.
+A small, inspectable demo that maps *Finnegans Wake* sentences to **DisCoCat** string diagrams with **lambeq**, compiles them to parameterised (simulated) circuits, and trains simple classifiers/probes—so we can talk concretely about what “quantum NLP” looks like on literary text before anyone oversells it.
 
 - Notebook: `riverrun2qpu.ipynb`
 - Stack: Python 3.10+, `lambeq` (QNLP toolkit), PyTorch, NumPy/Matplotlib  
